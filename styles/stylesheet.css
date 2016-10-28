@@ -1,0 +1,36 @@
+
+body {
+  font-size: 1em;
+  font-family: normal; arial, sans-serif;
+  color: #000000; /* black */
+  text-align: left;
+  margin: 0 auto;
+  max-width: 80%;
+  background-color: #E7F0F9;
+  line-height:
+}
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #305B89; /* */
+  text-align: center;
+}
+h2 {
+  color: #003776; /*  */
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h4 {
+  color: #5A738E; /*  */
+}
+p {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #113F74;
+}
+a {
+  color: #4D79AB;
+}
+li {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #003776;
+}
