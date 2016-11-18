@@ -16,7 +16,7 @@
 
   http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
   */
-  letter-spacing: ;
+  letter-spacing: 6px ;
 }
 
 #leading {
@@ -24,6 +24,7 @@
 
   http://www.w3schools.com/cssref/pr_dim_line-height.asp
   */
+  line-height: 281%;
 }
 
 /*** TEXT ALIGNMENT ASSIGNMENT STYLES ***/
