@@ -1,9 +1,7 @@
-/*** KERNING & LEADING ASSIGNMENT STYLES ***/
-
-/* Place this at the very top of your typographystyles.css document */
-
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
 /* Do not change this style */
+
+/*** KERNING & LEADING ASSIGNMENT STYLES ***/
 
 .rectangle {
   font-family: "Helvetica";
@@ -149,10 +147,45 @@ section p {
   */
 
 #grandCanyon {
-  background-image: url("C:/Users/Fall2016/Desktop/Portfolio_LuisEnriquez/portfolio_luisenriquez/images/grand_canyon.jpg");
+  background-image: url("../images/grand_canyon.jpg");
   background-size: cover;
   background-position: center center;
   height: 500px;
   width: 800px;
   margin: 0 auto;
+}
+
+#top0 {
+  font-size: 3.7em;
+  font-family: Oswald;
+  color: #EC421E;
+  text-align: center;
+}
+
+#top2 {
+  font-size: 3em;
+  font-family: ;
+  color: #E03C1A;
+  text-align: center;
+}
+
+#middle1 {
+  font-size: 3em;
+  font-family: ;
+  color: #E03C1A;
+  text-align: center;
+}
+
+#bottom1 {
+  font-size: 3em;
+  font-family: ;
+  color: #E03C1A;
+  text-align: center;
+}
+
+#bottom2 {
+  font-size: 2em;
+  font-family: ;
+  color: #EC421E;
+  text-align: center;
 }
