@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700|Oswald|Roboto');
+
+body {
+  background-color: #eee;
+  font-size: ;
+  line-height: ;
+}
+
+p{
+  color: #444;
+  font-family: "Roboto";
+  font-size: ;
+}
+
+#aboutmephoto {
+  clear: both;
