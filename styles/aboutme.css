@@ -2,8 +2,10 @@
 
 body {
   background-color: #eee;
-  font-size: ;
+  font-size: 16px;
   line-height: ;
+  width: 80%;
+  margin: 0 auto;
 }
 
 p{
@@ -12,5 +14,54 @@ p{
   font-size: ;
 }
 
-#aboutmephoto {
+#aboutmePhoto {
   clear: both;
+  margin: 0 auto;
+  border-radius: 10px;
+  max-width: 500px;
+  display: block;
+}
+
+a {
+  color: #e81c4f;
+  font-size: 1.1em;
+  font-family: "Oswald";
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "Oswald";
+  text-align: center;
+}
+
+h2 {
+  font-family: "Merriweather";
+  text-align: center;
+  background-color: #e81c4f;
+  color: white;
+  padding: 0;
+  font-size: 1.3em;
+}
+
+#bioDetails {
+  width: 20%;
+  float: left;
+}
+
+div ul li {
+  margin-bottom: 20px;
+}
+
+div ul {
+  padding: 10px;
+}
+
+nav ul li {
+  float: left;
+  width: 12%;
+  margin-bottom: 30px;
+}
+
+li {
+  center: align;
+}
